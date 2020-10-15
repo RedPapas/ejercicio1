@@ -2,4 +2,4 @@
 _Esto es un párrafo que describe el proyecto_
 ## Esto es un H2
 _Para obtener una copia de este proyecto a tu máquina local para propósitos de desarollo y pruebas ejecuta:_
-git clone 
+git clone https://github.com/RedPapas/ejercicio1.git
